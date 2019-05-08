@@ -1,6 +1,6 @@
-# Mars-Rover
+# Mars Rover
 
-##About the application *****
+## About the application 
 
 This application is meant to simulate a navigation system of a Mars rover.
 
